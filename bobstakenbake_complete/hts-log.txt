@@ -1,0 +1,11 @@
+HTTrack3.49-5 launched on Fri, 22 Aug 2025 15:08:04 at https://bobstakenbake.com/ +*bobstakenbake.com* +*/wp-content/uploads/* +*.jpg +*.jpeg +*.png +*.gif +*.svg +*.webp +*.ico +*.pdf +*.css +*.js +*.woff +*.woff2 +*.ttf -*
+(httrack https://bobstakenbake.com/ -O ./bobstakenbake_complete -r15 -N2 -%v -s0 -a -K0 -F "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" +*bobstakenbake.com* +*/wp-content/uploads/* +*.jpg +*.jpeg +*.png +*.gif +*.svg +*.webp +*.ico +*.pdf +*.css +*.js +*.woff +*.woff2 +*.ttf -* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-5 mirror complete in 2 seconds : 1 links scanned, 1 files written (143200 bytes overall) [25625 bytes received at 12812 bytes/sec], 143200 bytes transferred using HTTP compression in 1 files, ratio 17%
+(No errors, 0 warnings, 0 messages)

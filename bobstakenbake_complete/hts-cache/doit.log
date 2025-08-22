@@ -1,0 +1,8 @@
+https://bobstakenbake.com/ -O ./bobstakenbake_complete -r15 -N2 -%v -s0 -a -K0 -F "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" +*bobstakenbake.com* +*/wp-content/uploads/* +*.jpg +*.jpeg +*.png +*.gif +*.svg +*.webp +*.ico +*.pdf +*.css +*.js +*.woff +*.woff2 +*.ttf -*
+File generated automatically on Fri, 22 Aug 2025 15:08:04, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
