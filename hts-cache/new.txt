@@ -1,0 +1,2 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:51:47	143200/143200	---MCZ	200	added ('OK')	text/html	date:Fri,%2022%20Aug%202025%2014:59:49%20GMT	https://bobstakenbake.com/	./bobstakenbake_backup/web/index.html	(from )
